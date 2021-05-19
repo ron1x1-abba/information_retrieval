@@ -1,5 +1,5 @@
-## information_retrieval
-# Home tasks for information retrival course of Technosphere
+# information_retrieval
+## Home tasks for information retrival course of Technosphere
 
 Currently contains :
 1. Spellchecker
